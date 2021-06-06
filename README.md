@@ -1,4 +1,4 @@
 # Server at pzi1.fesb.hr
 
-## web pages
+## HTML, CSS, JS 
 link:  http://pzi1.fesb.hr/~jbilic18/
